@@ -48,5 +48,5 @@ This whole process when repeated a lot of times until the network and weights ar
 
 
 I would like to link my other pages here which you could read to understand the concepts further :
---- [My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
---- [Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
+  1.[My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
+  2.[Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
