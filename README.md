@@ -20,7 +20,7 @@ If you don't overthink what a neural network is doing, It is just a sequence of 
 matrices which are sent through a non-linearity function such as relu or sigmoid.
 
 ### why use non-linearity functions?
-If you think about it, if you just use numerous matrix multiplications its a series of linear operations. Lets say you have 5 different classes of images, if you are using linear operations you end up drawing straight lines or hyperplanes separating the 5 classes. This is not what you want, The very purpose of a neural network is to differentiate classes which aren't linearly separable. I hope this makes sense as to why we introduce a non-linearity after every set of matrix multiplications.
+If you think about it, using numerous matrix multiplications is a series of linear operations. Lets say you have 5 different classes of images, if you are using linear operations you end up drawing straight lines or hyperplanes separating the 5 classes. This is not what you want, The very purpose of a neural network is to differentiate classes which aren't linearly separable. I hope this makes sense as to why we introduce a non-linearity after every set of matrix multiplications.
 
 ### What are neurons?
 The neurons are nothing but values stored in matrices. These matrices are multiplied by the input or the matrix of neurons
@@ -40,7 +40,9 @@ Let me start with an analogy. Let us consider a football team consisting of 11 o
 Simple isnt it? we either replace the two under performing defenders or we invest more in their training regime so that they perform better in the upcoming game. So each player contributes to the outcome in either a positive or negetive way. 
 
 Lets now go back to our weights. Assume that each weight value is a player that contributes the final outcome of the network. 
-Each of the weight values have an error associated with the outcome. The network calculates the predicted value using the current weights and then it would calculate the errors associated with each weights depending on the difference between the actual and predicted output. The weights are then updated in a process called back propagation  to have a reduced error towards the prediction.
+Each of the weight values have an error associated with the outcome. 
+The network calculates the output predicted value using the current weights, this process is known as forward propagation. 
+It would then calculate the errors associated with each weights depending on the difference between the actual and predicted output. The weights are then updated in a process called back propagation to have a reduced error towards the prediction.
 
 This whole process when repeated a lot of times until the network and weights are all confident in their values towards making the prediction on a new data is called "training the network".
 
