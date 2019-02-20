@@ -7,10 +7,12 @@ This repo is a collection of scripts that I have made in an attempt to better un
 
 I would like to link my other pages here which you could read to understand the concepts further :
 
-  1.[My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
+    1.[My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
   
-  2.[Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
+    2.[Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
   
+
+
 
 Starting Point(just a suggestion) : I would first recommend to begin with the deep learning course on coursera by Andrew .N.G This would cover all the basics which you require.
 
