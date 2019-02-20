@@ -5,7 +5,7 @@ I am Chandrasekar Sivaraman, I am currently learning basics concepts of deep lea
 
 This repo is a collection of scripts that I have made in an attempt to better understand some underlying concepts of deep learning. I will mention all the major sources that I have used which I personally found to be the most effective in shaping my understanding of the important concepts.
 
-### I would like to link my other pages here which you could read to understand the concepts further :
+### I would like to link my other pages here which you could read to understand the concepts further:
 
   * [My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
   
