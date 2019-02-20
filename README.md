@@ -14,7 +14,7 @@ This repo is a collection of scripts that I have made in an attempt to better un
 
 
 
-Starting Point(just a suggestion) : I would first recommend to begin with the deep learning course on coursera by Andrew .N.G This would cover all the basics which you require.
+*Starting Point*(just a suggestion) : I would first recommend to begin with the deep learning course on coursera by Andrew .N.G This would cover all the basics which you require.
 
 Assuming that you have some understanding of a basic neuron and a single neuron network, The next step would be to try implementing a neural network on your own using just basic libraries. This following blog by adam trask will be very helpful to you in this regard: [https://iamtrask.github.io/2015/07/12/basic-python-network/](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
