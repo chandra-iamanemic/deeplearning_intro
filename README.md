@@ -5,6 +5,13 @@ I am Chandrasekar Sivaraman, I am currently learning basics concepts of deep lea
 
 This repo is a collection of scripts that I have made in an attempt to better understand some underlying concepts of deep learning. I will mention all the major sources that I have used which I personally found to be the most effective in shaping my understanding of the important concepts.
 
+I would like to link my other pages here which you could read to understand the concepts further :
+
+  1.[My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
+  
+  2.[Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
+  
+
 Starting Point(just a suggestion) : I would first recommend to begin with the deep learning course on coursera by Andrew .N.G This would cover all the basics which you require.
 
 Assuming that you have some understanding of a basic neuron and a single neuron network, The next step would be to try implementing a neural network on your own using just basic libraries. This following blog by adam trask will be very helpful to you in this regard: [https://iamtrask.github.io/2015/07/12/basic-python-network/](https://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -47,8 +54,4 @@ It would then calculate the errors associated with each weights depending on the
 This whole process when repeated a lot of times until the network and weights are all confident in their values towards making the prediction on a new data is called "training the network".
 
 
-I would like to link my other pages here which you could read to understand the concepts further :
 
-  1.[My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
-  
-  2.[Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
