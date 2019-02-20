@@ -12,7 +12,7 @@ This repo is a collection of scripts that I have made in an attempt to better un
   * [Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
   
 
-
+## Some great materials that you could go through to get a foothold of the topics
 
 **Starting Point**(just a suggestion) : I would first recommend to begin with the deep learning course on coursera by Andrew .N.G This would cover all the basics which you require.
 
