@@ -7,7 +7,7 @@ This repo is a collection of scripts that I have made in an attempt to better un
 
 ### I would like to link my other pages here which you could read to understand the concepts further:
 
-  * [My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
+  * [My Understanding of CNNs](https://chandra-iamanemic.github.io/cnn_basics/)
   
   * [Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
   
@@ -59,7 +59,7 @@ It would then calculate the errors associated with each weights depending on the
 This whole process when repeated a lot of times until the network and weights are all confident in their values towards making the prediction on a new data is called "training the network".
 
 You can now take a look at my notes and implementations which helped me understand CNNs :
-  * [My Understanding of CNNs](https://iamanemic.github.io/cnn_basics/)
+  * [My Understanding of CNNs](https://chandra-iamanemic.github.io/cnn_basics/)
   
   * [Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
 
