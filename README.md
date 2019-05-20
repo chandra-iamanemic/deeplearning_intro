@@ -9,9 +9,9 @@ This repo is a collection of scripts that I have made in an attempt to better un
 
   * [My Understanding of CNNs](https://chandra-iamanemic.github.io/cnn_basics/)
   
-  * [Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
+  * [Python Script to Visualize the Features Extracted by a CNN Filter](https://chandra-iamanemic.github.io/cnn_filter_visualization/)
   
-  * [Python script to visualize 3D convolutions](https://iamanemic.github.io/3d_cnn_filter_visualization/)
+  * [Python script to visualize 3D convolutions](https://chandra-iamanemic.github.io/3d_cnn_filter_visualization/)
 
   
 
@@ -61,6 +61,6 @@ This whole process when repeated a lot of times until the network and weights ar
 You can now take a look at my notes and implementations which helped me understand CNNs :
   * [My Understanding of CNNs](https://chandra-iamanemic.github.io/cnn_basics/)
   
-  * [Python Script to Visualize the Features Extracted by a CNN Filter](https://iamanemic.github.io/cnn_filter_visualization/)
+  * [Python Script to Visualize the Features Extracted by a CNN Filter](https://chandra-iamanemic.github.io/cnn_filter_visualization/)
 
 
